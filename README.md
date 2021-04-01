@@ -3,8 +3,8 @@
 
 Shopping cart using react (starter kit)
 
-![alt text](https://github.com/LibuMathew/react-ofc/blob/master/public/screenshot_1.jpg?raw=true)
-![alt text](https://github.com/LibuMathew/react-ofc/blob/master/public/screenshot_2.jpg?raw=true)
+![Home Screen](https://github.com/LibuMathew/react-ofc/blob/master/public/screenshot_1.JPG?raw=true)
+![Cart](https://github.com/LibuMathew/react-ofc/blob/master/public/screenshot_2.JPG?raw=true)
 
 ### `npm start`
 
